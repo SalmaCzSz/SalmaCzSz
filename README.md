@@ -16,5 +16,5 @@ ___
 <br><br>
 ___
 ### :octocat: Stats
-|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmaczsz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Salma's github stats" /></a>|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SalmaCzSz&theme=buefy&hide_border=true&locale=es" alt="GitHub Streak" /></a>|
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmaczsz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github"/></a>|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SalmaCzSz&theme=buefy&hide_border=true&locale=es"/></a>|
 | ------------- | ------------- |
