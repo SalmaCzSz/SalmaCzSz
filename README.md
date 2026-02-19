@@ -10,11 +10,11 @@
 
 ___
 #### 👩‍💻 Skills
-|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bitbucket,bootstrap,c,cpp,css,eclipse,git,github,idea,html,java,maven,mysql,php,postman,spring,vscode,vue"/></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaczsz&layout=compact&theme=buefy&hide_border=true" /></a>|
-| ------------- | ------------- |
+|<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bitbucket,bootstrap,c,cpp,css,eclipse,git,github,idea,html,java,maven,mysql,php,postman,spring,vscode,vue"/></a>|
+| ------------- |
 
 <br><br>
 ___
 ### :octocat: Stats
-|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salmaczsz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github"/></a>|[![GitHub Streak](https://streak-stats.demolab.com?user=SalmaCzSz&theme=buefy&hide_border=true&locale=es)](https://git.io/streak-stats)|
-| ------------- | ------------- |
+|[![GitHub Streak](https://streak-stats.demolab.com?user=SalmaCzSz&theme=buefy&hide_border=true&locale=es)](https://git.io/streak-stats)|
+| ------------- |
